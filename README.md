@@ -5,5 +5,5 @@ Thread was supposed to be a startup focusing on organizing people's email inboxe
 The URL for the signup page is {url}/signup
 The URL for the login page is {url}/login
 
-![SignUp Demo](demo-images/Thread-Signup.png)
+![SignUp Demo](demo-images/Thead-Signup.png)
 ![Login Demo](demo-images/Thread-Login.png)
